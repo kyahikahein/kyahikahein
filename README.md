@@ -1,22 +1,27 @@
-# Hey there! <img height="60" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<div align="center">
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@kyahikahein?name=kyahikahein&theme=booru-r6gdrawfriends&padding=7&offset=0&align=top&scale=1.2&pixelated=1&darkmode=auto">
+    </p>
+</div>
 
-<div align="left" style="font-size: 1.5em;">
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=36BCF7&lines=Hey+there!+👋" />
+</div>
 
-**Haku here!** I'm from India, currently pursuing my B.Tech+M.Tech in IoT. I focus on electronics and IoT systems, and use Python for automation, data, and backend logic. I also explore frontend development when needed. I am curious and eager to innovate. I want to create practical digital + hardware solutions while continuously improving my skills and knowledge.
+<div align="left">
 
-My hobbies include music, writing, vibe coding, and playing video games!
+<p><strong>Haku here!</strong> I'm from India, currently pursuing my B.Tech+M.Tech in IoT. I focus on electronics and IoT systems, and use Python for automation, data, and backend logic. I also explore frontend development when needed. I am curious and eager to innovate. I want to create practical digital + hardware solutions while continuously improving my skills and knowledge.</p>
+
+<p>My hobbies include music, writing, vibe coding, and playing video games!</p>
 
 </div>
 
 <br><br>
 
-## About Me
+## About Me <img height="50" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<img align="left" src="https://i.pinimg.com/1200x/db/38/bd/db38bd76da889293b894268a787767ad.jpg" width="189px"/>
 
-<img align="left" src="https://i.pinimg.com/1200x/db/38/bd/db38bd76da889293b894268a787767ad.jpg" width="190px"/>
-
-<div style="font-size: 1.5em;">
-
-```csharp
+<pre style="font-family: 'Courier New', monospace; background: #f6f8fa; padding: 20px; border-radius: 10px; border: 2px solid #e1e4e8;">
 MY PROFILE
 -------------------------------
 Name: Haku
@@ -25,88 +30,78 @@ Languages: Python, C++, HTML, CSS, JavaScript
 Learning: React, Electronics, IoT Systems
 Location: India
 Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
-```
-
-</div>
+</pre>
 
 <br clear="left"/>
-
-<div align="center">
-    <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@kyahikahein?name=kyahikahein&theme=booru-r6gdrawfriends&padding=7&offset=0&align=top&scale=1.8&pixelated=1&darkmode=auto">
-    </p>
-</div>
 
 <br><br>
 
 ## Skills & Tools
 
-<div align="center" style="font-size: 1.5em;">
+<div align="center">
+
 **Technologies and Tools I work with**
 
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://skillicons.dev/icons?i=python" width="84" height="84" alt="Python" />
-<br><span style="font-size: 1.2em;">Python</span>
+<br>Python
 </td>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://skillicons.dev/icons?i=cpp" width="84" height="84" alt="C++" />
-<br><span style="font-size: 1.2em;">C++</span>
+<br>C++
 </td>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://skillicons.dev/icons?i=html" width="84" height="84" alt="HTML" />
-<br><span style="font-size: 1.2em;">HTML</span>
+<br>HTML
 </td>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://skillicons.dev/icons?i=css" width="84" height="84" alt="CSS" />
-<br><span style="font-size: 1.2em;">CSS</span>
+<br>CSS
 </td>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://skillicons.dev/icons?i=mysql" width="84" height="84" alt="MySQL" />
-<br><span style="font-size: 1.2em;">MySQL</span>
+<br>MySQL
 </td>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://skillicons.dev/icons?i=git" width="84" height="84" alt="Git" />
-<br><span style="font-size: 1.2em;">Git</span>
+<br>Git
 </td>
 </tr>
-
 <tr>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://skillicons.dev/icons?i=github" width="84" height="84" alt="GitHub" />
-<br><span style="font-size: 1.2em;">GitHub</span>
+<br>GitHub
 </td>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://skillicons.dev/icons?i=vscode" width="84" height="84" alt="VS Code" />
-<br><span style="font-size: 1.2em;">VS Code</span>
+<br>VS Code
 </td>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://cdn.simpleicons.org/davinciresolve" width="84" height="84" alt="DaVinci Resolve" />
-<br><span style="font-size: 1.2em;">DaVinci Resolve</span>
+<br>DaVinci Resolve
 </td>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="84" height="84" alt="LeetCode" />
-<br><span style="font-size: 1.2em;">LeetCode</span>
+<br>LeetCode
 </td>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://cdn.simpleicons.org/canva/00C4CC" width="84" height="84" alt="Canva" />
-<br><span style="font-size: 1.2em;">Canva</span>
+<br>Canva
 </td>
-<td align="center" width="120">
+<td align="center" width="144">
 <img src="https://cursor.com/favicon.ico" width="84" height="84" alt="Cursor" />
-<br><span style="font-size: 1.2em;">Cursor</span>
+<br>Cursor
 </td>
 </tr>
 </table>
-</div>
 
+</div>
 
 <br><br>
 
 ## Contact
-
-<div style="font-size: 1.5em;">
 
 <table width="100%">
 <tr>
@@ -124,19 +119,19 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 <td align="center">
 <a href="mailto:dhanrazx@proton.me" style="text-decoration: none;">
 <img src="https://img.icons8.com/color/84/000000/gmail-new.png" alt="Gmail" width="84" height="84"/>
-<br><span style="font-size: 1.2em;">Gmail</span>
+<br>Gmail
 </a>
 </td>
 <td align="center">
 <a href="https://x.com/kyahikaheinx" style="text-decoration: none;">
 <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="84" height="84"/>
-<br><span style="font-size: 1.2em;">X</span>
+<br>X
 </a>
 </td>
 <td align="center">
 <a href="https://youtube.com/@kyaahiakehi" style="text-decoration: none;">
 <img src="https://img.icons8.com/color/84/000000/youtube-play.png" alt="YouTube" width="84" height="84"/>
-<br><span style="font-size: 1.2em;">YouTube</span>
+<br>YouTube
 </a>
 </td>
 </tr>
@@ -144,19 +139,19 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 <td align="center">
 <a href="https://discord.com/users/imnottkratos" style="text-decoration: none;">
 <img src="https://img.icons8.com/color/84/000000/discord-logo.png" alt="Discord" width="84" height="84"/>
-<br><span style="font-size: 1.2em;">Discord</span>
+<br>Discord
 </a>
 </td>
 <td align="center">
 <a href="https://open.spotify.com/users/1mh3ivy5cj3omoc3jhnkoylgf" style="text-decoration: none;">
 <img src="https://img.icons8.com/color/84/000000/spotify.png" alt="Spotify" width="84" height="84"/>
-<br><span style="font-size: 1.2em;">Spotify</span>
+<br>Spotify
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/kyahikahein" style="text-decoration: none;">
 <img src="https://img.icons8.com/color/84/000000/github--v1.png" alt="GitHub" width="84" height="84"/>
-<br><span style="font-size: 1.2em;">GitHub</span>
+<br>GitHub
 </a>
 </td>
 </tr>
@@ -165,23 +160,15 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 </td>
 <td valign="top" width="25%" align="right">
 
-<img src="https://i.pinimg.com/736x/df/f8/1e/dff81ebd4f809d5232367e63e2b919f6.jpg" width="535"/>
+<img src="https://i.pinimg.com/736x/df/f8/1e/dff81ebd4f809d5232367e63e2b919f6.jpg" width="435"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br><br>
 
-
-
-
-<div align="cenetr" >
-
-<h2 style="font-size: 2.5em;">Thank You for Reading 🫶🏻</h2>
-</div>
+## Thank You for Reading 🫶🏻
 
 <table width="100%">
 <tr>
@@ -189,7 +176,8 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 <img src="https://i.pinimg.com/originals/7c/da/95/7cda951b9754abda0032a6fe3cb58691.gif" width="400"/>
 </td>
 <td valign="middle" width="50%" align="center">
-<h3 style="font-size: 2em;"><em>"Be loyal to what matters"</em></h3>
+<h3><em>"Be loyal to what matters"</em></h3>
+<p><strong>— Arthur Morgan</strong></p>
 </td>
 </tr>
 </table>
