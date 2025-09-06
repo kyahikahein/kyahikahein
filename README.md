@@ -4,6 +4,7 @@
     </p>
 </div>
 
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=36BCF7&lines=Hey+there!+👋" />
 </div>
@@ -22,6 +23,7 @@
 <img align="left" src="https://i.pinimg.com/1200x/db/38/bd/db38bd76da889293b894268a787767ad.jpg" width="189px"/>
 
 <pre style="font-family: 'Courier New', monospace; background: #f6f8fa; padding: 20px; border-radius: 10px; border: 2px solid #e1e4e8;">
+    
 MY PROFILE
 -------------------------------
 Name: Haku
@@ -35,6 +37,7 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 <br clear="left"/>
 
 <br><br>
+
 
 ## Skills & Tools
 
@@ -167,9 +170,16 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 </table>
 
 <br><br>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyahikahein/kyahikahein/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyahikahein/kyahikahein/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kyahikahein/kyahikahein/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 ## Thank You for Reading 🫶🏻
-
+<div align="center">
 <table width="100%">
 <tr>
 <td valign="middle" width="50%" align="center">
@@ -181,3 +191,4 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 </td>
 </tr>
 </table>
+</div>
