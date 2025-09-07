@@ -132,7 +132,7 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 </a>
 </td>
 <td align="center">
-<a href="https://youtube.com/@kyaahiakehi" style="text-decoration: none;">
+<a href="https://youtube.com/@kyaahikahein" style="text-decoration: none;">
 <img src="https://img.icons8.com/color/84/000000/youtube-play.png" alt="YouTube" width="84" height="84"/>
 <br>YouTube
 </a>
