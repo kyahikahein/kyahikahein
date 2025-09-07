@@ -20,7 +20,7 @@
 <br><br>
 
 ## About Me <img height="50" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-<img align="left" src="https://i.pinimg.com/1200x/db/38/bd/db38bd76da889293b894268a787767ad.jpg" width="189px"/>
+<img align="left" src="https://pbs.twimg.com/profile_images/1964708864210718721/5dHBQvjt_400x400.jpg" width="210px"/>
 
 <pre style="font-family: 'Courier New', monospace; background: #f6f8fa; padding: 20px; border-radius: 10px; border: 2px solid #e1e4e8;">
     
