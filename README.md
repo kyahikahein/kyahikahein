@@ -38,12 +38,13 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 
 <br><br>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 ## Skills & Tools
 
 <div align="center">
 
-**Technologies and Tools I work with**
+**Language and Tools I work with**
 
 <table>
 <tr>
@@ -103,7 +104,7 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 </div>
 
 <br><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Contact
 
 <table width="100%">
@@ -170,14 +171,10 @@ Hobbies: Music, Writing, Vibe Coding, and Playing Video Games
 </table>
 
 <br><br>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyahikahein/kyahikahein/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyahikahein/kyahikahein/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kyahikahein/kyahikahein/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kyahikahein&theme=github-compact"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Thank You for Reading 🫶🏻
 <div align="center">
 <table width="100%">
