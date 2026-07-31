@@ -7,12 +7,16 @@
 
 i'm an undergraduate electronics student passionate about hardware, software, and the endless process of figuring things out.
 
-[![say more](https://img.shields.io/badge/say_more-30363d?style=flat)](https://github.com/kyaahikahein)
+<details>
+<summary><b> say more</b></summary>
 
-•
+<br>
 
 i enjoy building websites, experimenting with embedded systems, and exploring ai, always trying to understand how things work beneath the surface.
 
 •
 
 when i'm not procrastinating, you'll probably find me gaming, listening to rock music, or turning random ideas into unfinished projects.
+
+</details>
+
