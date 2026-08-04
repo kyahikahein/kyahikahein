@@ -12,6 +12,6 @@ I'm an undergraduate electronics student passionate about hardware, software, an
 
 ![](https://komarev.com/ghpvc/?username=kyahikahein&color=brightgreen)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/kyahikahein?label=Follow%20Me&style=social)
+![GitHub followers](https://img.shields.io/github/followers/gitdhanraz?label=Follow%20Me&style=social)
 
 
