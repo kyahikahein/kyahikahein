@@ -10,8 +10,8 @@ I'm an undergraduate electronics student passionate about hardware, software, an
 
 > i hit rock bottom twice a day, but as oscar said, we're all in the gutter, yet some of us still look at the stars.
 
-![](https://komarev.com/ghpvc/?username=kyahikahein&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=haydha&color=brightgreen)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/gitdhanraz?label=Follow%20Me&style=social)
+![GitHub followers](https://img.shields.io/github/followers/haydha?label=Follow%20Me&style=social)
 
 
