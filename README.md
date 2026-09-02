@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harddhan)
 
 
-I'm an undergraduate electronics student passionate about hardware, software, and the endless process of figuring things out.
+I'm an undergraduate electronics student passionate about hardware, sometimes software, and the endless process of figuring things out.
 
 > i hit rock bottom twice a day, but as oscar said, we're all in the gutter, yet some of us still look at the stars.
 
